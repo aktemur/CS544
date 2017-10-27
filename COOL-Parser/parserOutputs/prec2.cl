@@ -1,0 +1,8 @@
+#name "parserInputs/prec2.cl"
+Program:
+  Class: Prec inherits Object
+    Field: x: Int
+      Binary: ADD
+        Id: a
+        Not:
+          Id: b
